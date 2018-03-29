@@ -1,0 +1,18 @@
+// ATLProjapp.idl : IDL source for ATLProj-app
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (ATLProjapp.tlb) and marshalling code.
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	uuid(A7B8C595-755E-45FD-8221-0C0050EC9F39),
+	version(1.0),
+]
+library ATLProjappLib
+{
+	importlib("stdole2.tlb");
+};
+
