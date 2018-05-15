@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  CalendarBar.cpp
+  ChildFrm.cpp
+  MainFrm.cpp
+  MFCApplicationDemo.cpp
+  MFCApplicationDemoDoc.cpp
+  MFCApplicationDemoView.cpp
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  Generating code
+  All 549 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MFCApplicationDemo.vcxproj -> D:\projects\gitHub\WinApp\Release\MFCApplicationDemo.exe
+  MFCApplicationDemo.vcxproj -> D:\projects\gitHub\WinApp\Release\MFCApplicationDemo.pdb (Full PDB)

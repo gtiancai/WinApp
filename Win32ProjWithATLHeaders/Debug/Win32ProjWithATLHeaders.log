@@ -1,13 +1,9 @@
 ﻿  stdafx.cpp
   Win32ProjWithATLHeaders.cpp
   MyWindow.cpp
-d:\projects\github\winapp\win32projwithatlheaders\mywindow.h(17): error C2065: 'IDM_ABOUT': undeclared identifier
-d:\projects\github\winapp\win32projwithatlheaders\mywindow.h(17): error C2664: 'LRESULT CMyWindow::onAbout(UINT,WPARAM,LPARAM,BOOL &)': cannot convert argument 3 from 'HWND' to 'LPARAM'
-  d:\projects\github\winapp\win32projwithatlheaders\mywindow.h(17): note: There is no context in which this conversion is possible
-d:\projects\github\winapp\win32projwithatlheaders\mywindow.cpp(21): error C2660: 'MessageBoxW': function does not take 3 arguments
+d:\projects\github\winapp\win32projwithatlheaders\mywindow.h(23): warning C4002: too many actual parameters for macro 'END_MSG_MAP'
   Main.cpp
-d:\projects\github\winapp\win32projwithatlheaders\mywindow.h(17): error C2065: 'IDM_ABOUT': undeclared identifier
-d:\projects\github\winapp\win32projwithatlheaders\mywindow.h(17): error C2664: 'LRESULT CMyWindow::onAbout(UINT,WPARAM,LPARAM,BOOL &)': cannot convert argument 3 from 'HWND' to 'LPARAM'
-  d:\projects\github\winapp\win32projwithatlheaders\mywindow.h(17): note: There is no context in which this conversion is possible
-d:\projects\github\winapp\win32projwithatlheaders\main.cpp(5): warning C4007: 'wWinMain': must be '__stdcall'
+d:\projects\github\winapp\win32projwithatlheaders\mywindow.h(23): warning C4002: too many actual parameters for macro 'END_MSG_MAP'
   Generating Code...
+  Win32ProjWithATLHeaders.vcxproj -> D:\projects\gitHub\WinApp\Debug\Win32ProjWithATLHeaders.exe
+  Win32ProjWithATLHeaders.vcxproj -> D:\projects\gitHub\WinApp\Debug\Win32ProjWithATLHeaders.pdb (Full PDB)

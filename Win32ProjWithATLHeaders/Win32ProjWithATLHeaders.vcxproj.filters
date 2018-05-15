@@ -27,10 +27,10 @@
     <ClInclude Include="Resource.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Win32ProjWithATLHeaders.h">
+    <ClInclude Include="MyWindow.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="MyWindow.h">
+    <ClInclude Include="Win32ProjWithATLHeaders.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -38,13 +38,13 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Win32ProjWithATLHeaders.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="MyWindow.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Win32ProjWithATLHeaders.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

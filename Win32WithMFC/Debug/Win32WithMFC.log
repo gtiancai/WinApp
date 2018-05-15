@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Win32WithMFC.cpp
+  LINK : D:\projects\gitHub\WinApp\Debug\Win32WithMFC.exe not found or not built by the last incremental link; performing full link
+     Creating library D:\projects\gitHub\WinApp\Debug\Win32WithMFC.lib and object D:\projects\gitHub\WinApp\Debug\Win32WithMFC.exp
+  Win32WithMFC.vcxproj -> D:\projects\gitHub\WinApp\Debug\Win32WithMFC.exe
+  Win32WithMFC.vcxproj -> D:\projects\gitHub\WinApp\Debug\Win32WithMFC.pdb (Full PDB)
